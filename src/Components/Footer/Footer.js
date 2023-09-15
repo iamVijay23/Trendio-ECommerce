@@ -100,7 +100,7 @@ const Footer = () => {
           <Col lg="12">
             {/* Bottom section */}
             <p className="footer__copyright">
-              Copyright {year} developed by - Asadullah Shaikh. All rights
+              Copyright {year} developed by - vijaysinghmaurya. All rights
               reserved.
             </p>
           </Col>
